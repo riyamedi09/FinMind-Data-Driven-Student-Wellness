@@ -1,0 +1,7 @@
+student_id,session_duration_min,resource_category,helpful_rating
+user_001,15,mental_health,5
+user_002,30,peer_tutoring,4
+user_003,10,finance_hub,5
+user_004,5,mental_health, 3
+user_005,45,peer_tutoring, 5
+user_006,12,finance_hub, 4 
