@@ -1,0 +1,22 @@
+# 🗺️ FinMind Project Roadmap (2025-2026)
+
+This roadmap outlines the development and research phases for the FinMind platform.
+
+### **Phase 1: Foundation (Current)**
+* [x] Initialize GitHub repository and project structure.
+* [x] Develop basic Python recommendation logic.
+* [x] Create initial Financial Literacy Hub.
+
+### **Phase 2: Development (Next 2 Months)**
+* [ ] Build a front-end interface using **Bubble** or **JavaScript**.
+* [ ] Connect **Firebase** for secure, anonymous data storage.
+* [ ] Expand the Finance Hub with videos and interactive calculators.
+
+### **Phase 3: The Pilot Study (3-5 Months Out)**
+* [ ] Recruit 30-50 high school student volunteers.
+* [ ] Launch the "Beta" version of the platform.
+* [ ] Collect and analyze engagement data to measure stress reduction.
+
+### **Phase 4: Analysis & Application (Summer/Fall 2025)**
+* [ ] Use **Python** (Pandas/Matplotlib) to visualize pilot data.
+* [ ] Present findings in college application essays and portfolios.
