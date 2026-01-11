@@ -1,0 +1,19 @@
+# MindBridge Recommendation Engine - Prototype
+# This script simulates how the platform suggests resources based on student input.
+
+def get_recommendation(student_stress_type):
+"""
+Logic to match a student's stressor with the right resource.
+"""
+recommendations = {
+  "academics": "Check out our Peer Tutoring feed for help with specific subjects.",
+  "mental_health": "Try the '5-Minute Breathing Exercise' in the Wellness Hub.",
+  "future_planning": "Visit the Finance Hub for the 'College Budgeting 101' guide."
+}
+
+# Default to a general greeting if the category isn't found
+return recommendations.get(student_stress_type, "Explore the MindBridge Hub for support!")
+
+# Example: If a student reports stress about 'future_planning'
+current_input = "future_planning"
+print(f"Based on your input, we suggest: {get_recommendation(current_input)}")
